@@ -1,0 +1,247 @@
+.section1 .container{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    padding-top: 200px;
+}
+
+.section1__div__caru {
+    width: 871px;
+    height: 653px;
+}
+
+.section1__div2 {
+    width: 474px;
+    /* margin-left: 900px; */
+}
+
+.section1__div2__title {
+    font-family: "Open Sans";
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 54.47px;
+    text-align: left;
+    color: #383838;
+}
+
+.section1__div2__text {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.79px;
+    text-align: left;
+    color: #BDBDBD;
+    display: flex;
+    align-items: center;
+    margin-top: 17px;
+    margin-bottom: 20px;
+}
+
+.raiting {
+    margin-left: 51px;
+}
+
+.section1__div2__link {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.79px;
+    text-align: left;
+    color: #BDBDBD;
+    text-decoration: underline;
+    margin-left: 21px;
+}
+
+.section1__div2__text {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.79px;
+    text-align: left;
+    color: #BDBDBD;
+    display: flex;
+    align-items: center;
+
+}
+
+.section1__div2__text__span {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    text-align: left;
+    color: #383838;
+    margin-left: 126px;
+
+}
+
+.rang__btnlar {
+    width: 42px;
+    height: 42px;
+    border: 2px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-left: 24px;
+}
+
+.rang__btnlar:hover {
+    border: 2px solid #72BF44;
+    align-items: center;
+
+}
+
+.section1__div2__text__div {
+    margin-left: 136px;
+
+
+}
+
+.section1__div2__kupit {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    align-items: center;
+    position: relative;
+}
+
+.section1__div2__kupit__text {
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.51px;
+    text-align: left;
+    color: #383838;
+}
+
+.section1__div2__kupit__text2 {
+    font-family: "Open Sans";
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 38.13px;
+    text-align: left;
+    color: #72BF44;
+}
+
+.section1__div2__kupit__btn {
+    width: 178px;
+    height: 53px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-right: 10px;
+    margin-bottom: 20px !important;
+}
+
+.section1__div2__kupit__heart {
+    width: 53px;
+    height: 53px;
+    display: block;
+    margin-left: 20px !important;
+    margin-top: -20px !important;
+
+}
+
+.section1__div2__kupit__btn2 {
+    width: 251px;
+    height: 53px;
+    border: 1px solid #72BF44;
+    border-radius: 8px;
+    font-family: " Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    text-align: left;
+    color: #383838;
+    position: absolute;
+    margin-left: 200px !important;
+
+
+
+
+}
+
+.section1__div2__kupit__text3 {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    text-align: left;
+    color: #383838;
+    width: 135px;
+    margin-top: 41px;
+    margin-top: 70px;
+    margin-left: -200px;
+}
+
+.kartalar {
+    margin-top: 120px;
+    margin-left: -210px;
+}
+
+.section__div1__titlee {
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32.68px;
+    text-align: left;
+    color: #383838;
+    margin-bottom: 14px;
+}
+
+.sdc__text {
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.07px;
+    text-align: left;
+    color: #383838;
+    margin-bottom: 11px;
+}
+
+.sdc__span {
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19.07px;
+    text-align: left;
+    color: #383838;
+
+}
+
+.jdbnfvjdvkjdbjdfjbdfjbv {
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32.68px;
+    text-align: left;
+    color: #383838;
+    margin-top: 38px;
+    margin-bottom: 14px;
+}
+
+.jdsnhbvjhkbfrhuhniemoxmuutt465h5 {
+    width: 474px;
+    font-family: " Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.07px;
+    text-align: left;
+    color: #383838;
+
+}
+
+.section1__api {
+    width: 234px;
+    width: 234px;
+
+   
+    border-radius: 8px;
+    border: 1px solid #ECECEC;
+    padding: 11px 19px;
+
+}
+.apies2__list__itemmmm{
+    margin-bottom: 25px;
+}

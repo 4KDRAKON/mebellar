@@ -1,0 +1,94 @@
+.apies2 {
+    margin-top: 150px;
+}
+
+.apies2__title {
+    font-family: "Open Sans";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 65.37px;
+    text-align: left;
+    color: #383838;
+
+}
+
+.apies2__list {
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.apies2__list__item {
+    position: relative;
+}
+
+.apies2__item__title {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27.24px;
+    text-align: left;
+    color: #383838;
+}
+
+.son {
+    font-family: " Open Sans";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.24px;
+    text-align: left;
+    color: #383838;
+
+}
+
+.son2 {
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.51px;
+    text-align: left;
+    color: #E0E0E0;
+    text-decoration: line-through;
+    margin-left: 25px;
+
+}
+
+.apies2__img {
+    border-radius: 8px;
+}
+
+.yurak__apies2 {
+    Width: 40.66px;
+    Height: 40.66px;
+    border: none;
+    border-radius: 50%;
+    position: absolute;
+    cursor: pointer;
+    margin-top: -400px;
+    background-color: #fff;
+    margin-left: 150px;
+}
+.apies2__list__item__link{
+    display: block;
+}
+
+.Div__qoshimcha{
+    width: 41px;
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 315px;
+
+}
+.Div__qoshincha__btn{
+    display: none;
+}
+.Div__qoshincha__btn2{
+    display: block;
+    border: none;
+    background-color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    display: block;
+    margin-top: 27px;
+}

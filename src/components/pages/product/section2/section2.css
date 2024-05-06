@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+.section2__title {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Open Sans";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 65.37px;
+    text-align: left;
+    color: #383838;
+    margin-top: 90px;
+}
+.section2__list{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 105px;
+}

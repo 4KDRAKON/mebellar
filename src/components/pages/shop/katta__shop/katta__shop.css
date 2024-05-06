@@ -1,0 +1,185 @@
+.katta__shop1 {
+    width: 601px;
+}
+
+.Katta__shop .container {
+    display: grid;
+    grid-template-columns: repeat(2,590px);
+    gap: 40px;
+}
+
+.katta__shop1__text {
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    color: #383838;
+    border-bottom: 1px solid #ECECEC;
+    width: 327px;
+    padding-bottom: 10px;
+}
+
+.katta__shop1__select {
+    font-family: " Open Sans";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #383838;
+    display: block;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    border: none;
+}
+
+.input__number {
+    width: 120px;
+    height: 49px;
+    border-radius: 8px;
+    padding: 17px 61px;
+    background-color: #F5F5F5;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: center;
+    color: #39373A;
+    margin-left: 27px;
+    border: none;
+    margin-bottom: 24px;
+}
+
+.input__number:nth-child(2) {
+    width: 150px;
+    height: 49px;
+    border-radius: 8px;
+    padding: 17px 61px;
+    background-color: #F5F5F5;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: center;
+    color: #39373A;
+    margin-left: 27px;
+}
+
+.katta__shop1__text1 {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    color: #383838;
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    margin: 25px 0px;
+}
+
+.input__number2__text {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #383838;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 30px;
+}
+
+hr {
+    color: #ECECEC;
+    background-color: #ECECEC;
+}
+
+.input__number2 {
+    width: 97px;
+    height: 42px;
+    background-color: #F5F5F5;
+    padding: 13px 34px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: center;
+    color: #383838;
+    border-radius: 8px;
+    border: 1px;
+
+}
+
+.katta__shop1__list {
+    width: 100%;
+
+}
+
+.katta__shop1__item {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    height: 36px;
+    padding: 10px 16px;
+    background-color: #F5F5F5;
+    border-radius: 4px;
+    transition: all 0.6s ease-in-out;
+}
+
+.katta__shop1__list__link {
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    color: #39373A;
+    transition: all 0.6s ease-in-out;
+
+}
+
+.katta__shop1__item:hover {
+    background-color: #72BF44;
+    color: #FFF;
+}
+
+.katta__shop1__list__link:hover {
+    color: #FFF;
+
+}
+
+.kaaata__list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 101px;
+}
+
+.apies2__list__item454 {
+    margin-top: -50px;
+}
+
+.kaaata__list__btn {
+    width: 1195px;
+    height: 51px;
+    border-radius: 8px;
+    margin-left: 680px;
+    cursor: pointer;
+    background-color: #72BF44;
+    border: none;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24.51px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.helloworld{
+    margin-top: 100px;
+    margin-left: 500px;
+    height: 50px;
+    width: 500px;
+}

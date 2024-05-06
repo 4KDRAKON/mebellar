@@ -1,0 +1,131 @@
+.teatttttlar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.teatttttlar__title {
+    font-family: " Open Sans";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 65.37px;
+    text-align: left;
+    color: #383838;
+}
+
+.teatttttlar__text {
+    font-family: " Open Sans";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24.51px;
+    text-align: left;
+    color: #383838;
+}
+
+.api__item__link {
+    width: 250px;
+
+    background-color: #F5F5F5;
+    padding: 100px 0px;
+    padding-left: 65px;
+    margin-right: 30px;
+
+}
+
+.api__link2 {
+    color: #72BF44;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.51px;
+    text-align: left;
+    border: 1px solid #72BF44;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 20px;
+    transition: all 0.6s ease-in-out;
+    gap: 10px;
+
+}
+
+.api__link2:hover {
+
+    background-color: #72BF44;
+    color: #FFF;
+
+}
+
+.spalni__div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 64px;
+}
+
+.spalni__div1__select {
+    width: 240px;
+    height: 44px;
+    top: 777px;
+    left: 160px;
+    border-radius: 16px;
+    padding: 12px 24px;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #383838;
+
+}
+
+.spalni__div1 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.spalni__div1__title {
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #383838;
+}
+
+.option__select {
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #383838;
+}
+.spalni__div2{
+    display: flex;
+    align-items: center;
+    gap: 51px;
+
+}
+
+.spalni__div2__btn {
+    width: 145px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #72BF44;
+    padding: 12px 25px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    text-align: left;
+    color: #FFF;
+    border: none;
+    cursor: pointer;
+
+}

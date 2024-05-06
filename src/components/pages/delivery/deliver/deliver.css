@@ -1,0 +1,19 @@
+.deliver__title {
+    font-family: "Open Sans";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 65.37px;
+    text-align: left;
+    color: #383838;
+    margin-top: 97px;
+    margin-bottom: 20px;
+}
+
+.deliver__div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.deliver__div__div{
+    margin-top: -80px;
+}
